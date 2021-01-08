@@ -1,7 +1,7 @@
 # FirstBlog
 
 ## Description
-This is a basic page used to display blogs, made using Colt Steele's Online Web Developer Bootcamp on Udemy. At the moment, the blogs need to be inputted in the back-end. 
+This is a basic page used to display blogs, made using Colt Steele's Online Web Developer Bootcamp on Udemy. At the moment, the blogs need to be inputted in the back-end. It has been rinsed by zfrizell and soon i will understand it better
 
 ## Installation
 - Clone this repository
